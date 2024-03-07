@@ -37,16 +37,14 @@
 
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
 
-<p><b>T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
+<p><b>Allways Dark ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/)
-[![Github](https://img.shields.io/badge/Facebook-FBPAGE-blue?style=for-the-badge&logo=facebook)](https://facebook.com/)
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Dazai_FreeSrc)
 
+[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)][![Github]
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
 ``© AllwaysDark``
